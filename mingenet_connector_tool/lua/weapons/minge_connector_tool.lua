@@ -1,5 +1,4 @@
-SWEP.Author = "1999"
-SWEP.Category = "1999's Weapons (Admin)"
+SWEP.Category = "1999"
 SWEP.PrintName = "Mingenet Connection Tool"
 
 SWEP.ViewModelFOV		= 62
@@ -176,3 +175,4 @@ if (CLIENT) then
         render.PopRenderTarget()
     end
 end
+
